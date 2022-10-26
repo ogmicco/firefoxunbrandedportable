@@ -1,0 +1,1 @@
+start app\firefox\firefox.exe -profile "app\firefox\profiles\profile"
